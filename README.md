@@ -1,5 +1,4 @@
 ### Дратутииии, я какаю в туалете
-# Дада, урадено у MrLivixx
 
 <a href="https://github.com/xaliks">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xaliks&show_icons=true&include_all_commits=true&theme=dark" alt="ThePersigg's github stats" />
