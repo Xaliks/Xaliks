@@ -10,4 +10,4 @@
 
 ----
 
-<a href="https://github.com/Xaliks"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31pbskh4gof5zav2muh3e6ovufeq" alt="Spotify Recently played" /></a>
+<a href="https://open.spotify.com/user/31pbskh4gof5zav2muh3e6ovufeq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31pbskh4gof5zav2muh3e6ovufeq" alt="Spotify Recently played" /></a>
